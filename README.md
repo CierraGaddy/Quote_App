@@ -1,8 +1,10 @@
-# React + Vite
+# Quote App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React app that fetches and displays random quotes. 
 
-Currently, two official plugins are available:
+## Features:
+- Fetches a new quote from the API with a button click.
+- Styled with a clean violet theme.
+- Uses Vite for fast development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
